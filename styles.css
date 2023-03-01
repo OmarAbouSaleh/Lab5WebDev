@@ -1,0 +1,174 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    background-color: aqua;
+}
+.container div {
+    width: 50%;
+    margin: 10px;
+    background-color: grey;
+}
+
+.container #first {
+    margin-right: 5px;
+}
+
+.container #second {
+    margin-left: 5px;
+}
+.secondContainer {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    background-color: aqua;
+}
+.secondContainer div {
+    width: 50%;
+    background-color: grey;
+}
+.secondContainer #a {
+    margin-right: 7.5px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.secondContainer #b {
+    margin-right: 7.5px;
+    margin-top: 15px;
+    margin-left: 7.5px;
+    margin-bottom: 15px;
+}
+
+.secondContainer #c {
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-left: 7.5px;
+    margin-bottom: 15px;
+}
+.thirdContainer {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    background-color: aqua;
+}
+.thirdContainer div {
+    background-color: grey;
+}
+
+.thirdContainer #d {
+    width: 50%;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    margin-right: 6px;
+    border-right:2px solid;
+    border-left:2px solid;
+    border-top:2px solid;
+    border-bottom:2px solid;
+}
+.thirdContainer #e {
+    width: 25%;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 6px;
+    margin-right: 6px;
+    border-right:2px solid;
+    border-left:2px solid;
+    border-top:2px solid;
+    border-bottom:2px solid;
+}
+.thirdContainer #f {
+    width: 25%;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-right: 12px;
+    margin-left: 6px;
+    border-right:2px solid;
+    border-left:2px solid;
+    border-top:2px solid;
+    border-bottom:2px solid;
+}
+
+.fourthContainer {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    background-color: aqua;
+}
+
+.fourthContainer div {
+    background-color: grey;
+}
+
+.fourthContainer #g {
+    width: 25%;
+    margin-top: 12px;
+    margin-bottom: 6px;
+    margin-right: 6px;
+    margin-left: 12px;
+    border-right:2px solid;
+    border-left:2px solid;
+    border-top:2px solid;
+    border-bottom:2px solid;
+}
+
+.fourthContainer #h {
+    width: 25%;
+    margin-top: 12px;
+    margin-bottom: 6px;
+    margin-right: 6px;
+    margin-left: 6px;
+    border-right:2px solid;
+    border-left:2px solid;
+    border-top:2px solid;
+    border-bottom:2px solid;
+}
+
+.fourthContainer #i {
+    width: 25%;
+    margin-top: 12px;
+    margin-bottom: 6px;
+    margin-right: 6px;
+    margin-left: 6px;
+    border-right:2px solid;
+    border-left:2px solid;
+    border-top:2px solid;
+    border-bottom:2px solid;
+}
+
+.fourthContainer #j {
+    width: 25%;
+    margin-top: 12px;
+    margin-bottom: 6px;
+    margin-right: 12px;
+    margin-left: 6px;
+    border-right:2px solid;
+    border-left:2px solid;
+    border-top:2px solid;
+    border-bottom:2px solid;
+}
+
+.fifth {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    background-color: aqua;
+}
+
+.fifth div {
+    background-color: grey;
+}
+
+.fifth #k {
+    width: 100%;
+    margin-top: 6px;
+    margin-bottom: 12px;
+    margin-right: 12px;
+    margin-left: 12px;
+    border-right:2px solid;
+    border-left:2px solid;
+    border-top:2px solid;
+    border-bottom:2px solid;
+}
